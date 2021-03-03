@@ -1,0 +1,6 @@
+C:\Users\Nick\source\repos\practical-task-1-data-structures-question3-sir306\bin\Debug\ConsoleApplication.exe
+C:\Users\Nick\source\repos\practical-task-1-data-structures-question3-sir306\bin\Debug\ConsoleApplication.pdb
+C:\Users\Nick\source\repos\practical-task-1-data-structures-question3-sir306\obj\x86\Debug\TicketingSystem.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\practical-task-1-data-structures-question3-sir306\obj\x86\Debug\TicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\practical-task-1-data-structures-question3-sir306\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Nick\source\repos\practical-task-1-data-structures-question3-sir306\obj\x86\Debug\ConsoleApplication.pdb
